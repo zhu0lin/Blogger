@@ -29,7 +29,7 @@ $(document).on("click", ".btn-success", function () { //on click save
             </div>`;
     const successAlert = `
     <div class="alert alert-success alert-dismissible show" role="alert">
-        <strong>Post saved!</strong> 
+        <strong>Post saved! 🗂️</strong> 
         <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
     </div>`;
 
