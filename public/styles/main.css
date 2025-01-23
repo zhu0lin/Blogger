@@ -72,3 +72,19 @@ body {
     background-color: #57423b;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
 }
+
+@media only screen and (max-width: 430px) { 
+    
+    #interface {
+        background-color: #d79f89;
+        margin: auto;
+        height: 97%;
+        width: 75%;
+        justify-content: center;
+        align-items: center;
+        overflow-y: auto;
+        box-shadow: 0px 10px 10px #302221;
+    }
+    
+}
+
